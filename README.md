@@ -8,5 +8,5 @@ o       💼 Seeking internship/graduate opportunities in software development
 
 🚀 Skills
 
-o        💻Programming:  C#, JavaScript, Node.js,  SQL
+o        💻Programming:  C#, JavaScript, Node.js, SQL
 o        👱Personal:     Interpersonal communication, Critical thinking in dynamic situautions, working in situations that require initiave.
